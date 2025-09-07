@@ -3,5 +3,5 @@
 
 | Проект | Описание | Библиотеки |
 |----------|----------|----------|
-| [Проект № 1](https://github.com/AgentDesher/YandexPracticum-DataAnalyst-Projects/tree/main/computer-games-in-XXI-century "Код проекта на GitHub")\ Развитие индустрии игр в начале XXI века   | В рамках проекта подоготовила набор данных для статьи о развитии индустрии игр в начале XXI века.   | pandas, pyplot  |
+| [Проект № 1](https://github.com/AgentDesher/YandexPracticum-DataAnalyst-Projects/tree/main/computer-games-in-XXI-century "Код проекта на GitHub")<br> Развитие индустрии игр в начале XXI века   | В рамках проекта подоготовила набор данных для статьи о развитии индустрии игр в начале XXI века.   | pandas, pyplot  |
 
