@@ -3,7 +3,7 @@
 
 #### Репозиторий с портфолио проектов, выполненных на курсе "Аналитик данных" в Яндекс.Практикум.
 
-| **Проект** | **Описание** | **Библиотеки** |
+| **Проект** | **Описание** | **Стек** | **Библиотеки** |
 |-------------|----------|----------|
 | [Проект №1](https://github.com/AgentDesher/YandexPracticum-DataAnalyst-Projects/tree/main/real-estate-analytics "Код проекта на GitHub")  | Анализ рынка недвижимости Санкт-Петербурга и Ленинградской оболасти | SQL|
 | [Проект №2](https://github.com/AgentDesher/YandexPracticum-DataAnalyst-Projects/tree/main/computer-games-in-XXI-century "Код проекта на GitHub")  | Подоготовила набор данных для статьи о развитии индустрии компьютерных игр в начале XXI века.   | pandas, matplotlib, pyplot |
